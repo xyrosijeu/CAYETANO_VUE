@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(14, 243, 155);
+    color: beige;
+}
+h1 {
+    color: blue;
+};
+p {
+    color: red;
+    border-width: 5;
+};
+fieldset {
+    color: rgb(red, green, blue);
+    border: 3px;
+}
+
+.form {
+    background-color: rgb(red, green, blue);
+    color: rgb(yellow, white, pink);
+    border: 10px solid;
+    border-radius: 5px;
+};
+h1, p {
+    color: blue;
+};
+.honda {
+    background-image: url(honda.jpg);
+}
